@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97311764-d66d-49a6-b463-77c1306f1810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/acne.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/dermatitis.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/psoriasis.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/rosacea.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-page.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <workItem from="1611411311170" duration="5344000" />
       <workItem from="1611417916840" duration="784000" />
       <workItem from="1611418872535" duration="598000" />
-      <workItem from="1612105369305" duration="5792000" />
+      <workItem from="1612105369305" duration="11588000" />
     </task>
     <servers />
   </component>
